@@ -1,5 +1,4 @@
 ## Hi there 👋
-
 # Sahil Amundkar
 Machine Learning Engineer | AI Specialist | MLOps
 
