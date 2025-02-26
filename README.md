@@ -4,8 +4,6 @@
 
 ML Engineer with expertise in production-grade AI systems and predictive analytics. I specialize in developing intelligent solutions leveraging LLMs, RAG, multi-agent systems, and building robust MLOps pipelines. MS graduate in Robotics and Autonomous Systems (AI) from Arizona State University.
 
-Machine Learning Engineer | AI Specialist | MLOps
-
 ## What I Do
 
 - 🤖 Design and implement LLM-powered applications with advanced RAG systems
