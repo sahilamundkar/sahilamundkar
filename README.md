@@ -2,7 +2,7 @@
 
 ## About Me
 
-ML Engineer with expertise in production-grade AI systems and predictive analytics. I specialize in developing intelligent solutions leveraging Machine Learning, LLMs, RAG, multi-agent systems, and building robust pipelines. MS graduate in Robotics and Autonomous Systems (AI) from Arizona State University.
+ML Engineer with expertise in production-grade AI systems and predictive analytics. I specialize in developing intelligent solutions leveraging Machine Learning, LLMs, RAG, multi-agent systems, and building robust pipelines. MS graduate in Artificial Intelligence and Robotics from Arizona State University.
 
 ## What I Do
 
