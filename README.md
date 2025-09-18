@@ -6,11 +6,11 @@ ML Engineer with expertise in production-grade AI systems and predictive analyti
 
 ## What I Do
 
-- 🤖 Design and implement LLM-powered applications with advanced RAG systems
-- 📊 Develop end-to-end ML pipelines with strong focus on MLOps and feature engineering
-- 🔍 Create multi-agent systems for complex data analysis and automation
-- 📈 Build predictive analytics solutions for customer behavior modeling and retention
-- 🛠️ Implement CI/CD workflows for ML model training, evaluation, and deployment
+- Design and implement LLM-powered applications with advanced RAG systems
+- Develop end-to-end ML pipelines with strong focus on MLOps and feature engineering
+- Create multi-agent systems for complex data analysis and automation
+- Build predictive analytics solutions for customer behavior modeling and retention
+- Implement CI/CD workflows for ML model training, evaluation, and deployment
 
 ## Tech Stack
 
